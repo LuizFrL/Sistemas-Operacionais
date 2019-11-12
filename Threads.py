@@ -35,7 +35,8 @@ if __name__ == '__main__':
     lock = _.Lock()
 
     for threads in range(num_tread):
-        thread = _.Thread(target=joao.transfere, args=(claudia, 10, lock))
+        thread = _.Thread(target=joao.transfere, args=(claudia, 1, lock))
         thread.start()
-        thrs.append(thread)
+        thread = _.Thread(target=claudia.transfere, args=(joao, 1, lock))
+        thread.start()
 
