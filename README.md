@@ -7,6 +7,8 @@ Gabriel Yago; RA: 21901627
 
 # Execução:
 
+
+# Abra o Terminal.
 # Linux:
     - Usar o comando mkdir para criar uma pasta.
       exemplo: mkdir pasta_nome
