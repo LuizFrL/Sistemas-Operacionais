@@ -5,7 +5,7 @@ Luiz Fernando; RA: 21907298\
 Arthur Chinni; RA: 21901626\
 Gabriel Yago; RA: 21901627
 
-# Execução:\
+# Execução:
 
 # Linux:
     - Entrar em uma pasta de sua escolha no terminal usando o comando mkdir para criar uma pasta
