@@ -19,7 +19,6 @@ Gabriel Yago; RA: 21901627
     
 
 # Windows:
-    - Pelo terminal, entre na pasta Desktop usando o comando cd Desktop.
     - Executar o comando no terminal: git clone https://github.com/LuizFrL/Sistemas-Operacionais
     - Encontrar o Executável do python em sua máquina, logo depois, encontrar o script .py presente na pasta Sistemas-Operacionais.
     - Colocar o endereço do python no terminal entre aspas e depois um espaço e o endereço do arquivo .py.
