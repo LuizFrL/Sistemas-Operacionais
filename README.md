@@ -20,7 +20,8 @@ Gabriel Yago; RA: 21901627
 
 # Windows:
     - Executar o comando no terminal: git clone https://github.com/LuizFrL/Sistemas-Operacionais
-    - Encontrar o Executável do python em sua máquina, logo depois, encontrar o script .py presente na pasta Sistemas-Operacionais.
+    - Encontrar o Executável do python em sua máquina
+    - Depois, encontrar o script .py presente na pasta Sistemas-Operacionais.
     - Colocar o endereço do python no terminal entre aspas e depois um espaço e o endereço do arquivo .py.
     Exemplo (No meu Caso): "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python36_64\python.exe" C:\Users\maria.duarte\Desktop\Sistemas-Operacionais\Threads.py
     - Depois, deve clicar na tecla ENTER, e o script irá rodar.
